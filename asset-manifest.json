@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/besnike/static/css/main.5f994c67.css",
+    "main.js": "/besnike/static/js/main.ddb52669.js",
+    "static/media/unsplash_DPWCpOzx8SA.png": "/besnike/static/media/unsplash_DPWCpOzx8SA.205fc23457d1b779292a.png",
+    "static/media/unsplash_bzqU01v-G54.png": "/besnike/static/media/unsplash_bzqU01v-G54.2ad6d301d8b1415ea832.png",
+    "static/media/unsplash_ZPeXrWxOjRQ.png": "/besnike/static/media/unsplash_ZPeXrWxOjRQ.b6c65187296d6a07689b.png",
+    "static/media/unsplash_8F4EX4Nw1yY.png": "/besnike/static/media/unsplash_8F4EX4Nw1yY.385f4651f1a2ca44de90.png",
+    "static/media/unsplash_5QgIuuBxKwM.png": "/besnike/static/media/unsplash_5QgIuuBxKwM.88cf825032c846b6c9eb.png",
+    "static/media/unsplash_21GWwco-JBQ.png": "/besnike/static/media/unsplash_21GWwco-JBQ.a567e6a536b6eae03fe6.png",
+    "static/media/unsplash_Kt-E_Qq8DW4.png": "/besnike/static/media/unsplash_Kt-E_Qq8DW4.cb6adcd4a570212d369a.png",
+    "static/media/unsplash_8YG31Xn4dSw.png": "/besnike/static/media/unsplash_8YG31Xn4dSw.e0dacc65f6445b4bec1a.png",
+    "index.html": "/besnike/index.html",
+    "main.5f994c67.css.map": "/besnike/static/css/main.5f994c67.css.map",
+    "main.ddb52669.js.map": "/besnike/static/js/main.ddb52669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f994c67.css",
+    "static/js/main.ddb52669.js"
+  ]
+}
