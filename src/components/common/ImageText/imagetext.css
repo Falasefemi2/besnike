@@ -1,0 +1,70 @@
+.imagetext {
+  display: flex;
+}
+
+.image {
+  flex: 1;
+  justify-content: flex-start;
+  margin-right: 70px;
+}
+
+.image img {
+  border-radius: 16.9168px;
+  width: 100%;
+}
+
+.text {
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.image-button {
+  background: #07135f;
+  color: white;
+  margin-top: 70px;
+}
+
+.para-text {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150.52%;
+  letter-spacing: 0.015em;
+  text-transform: uppercase;
+  color: #88117e;
+}
+
+.tag {
+  font-family: var(--base-font);
+  font-weight: 600;
+  line-height: 39px;
+  letter-spacing: 0.015em;
+  text-transform: capitalize;
+  color: #07135f;
+}
+
+::marker {
+  width: 10px;
+  height: 10px;
+  color: #07135f;
+}
+
+.li {
+  font-family: var(--base-font);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27.09px;
+  text-transform: capitalize;
+  color: var(--blue-color);
+  letter-spacing: 0.015em;
+}
+
+.dumText {
+    width: 407px;
+    height: 130px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #727377;
+    margin-top: 30px;
+}

@@ -1,0 +1,94 @@
+.visitor {
+    height: 100%;
+    background: rgba(226, 228, 246, 0.29);
+    margin-top: 15rem;
+    display: flex;
+}
+
+.visitor__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.visitor-text {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.dynamics {
+    width: 367px;
+    font-family: var(--base-font);
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+    text-transform: capitalize;
+    color: #575757;
+    margin-top: 10px;
+}
+
+.visitor-btn {
+    margin-top: 45px;
+}
+
+.customer-text {
+    font-family: var(--base-font);
+    width: 469px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 62px;
+    letter-spacing: 0.015em;
+    text-transform: capitalize;
+    color: var(--blue-color);
+}
+
+.end {
+    font-family: var(--base-font);
+    width: 175px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.015em;
+    text-transform: capitalize;
+    color: var(--blue-color);
+}
+
+
+.software {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-text {
+    width: 181px;
+    font-family: var(--base-font);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.015em;
+    text-transform: capitalize;
+    color: var(--blue-color);
+    margin-bottom: 5px;
+}
+
+.software-text {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #727377;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 20px;
+    padding-bottom: 65px;
+}
+
+.organisation {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 20px;
+}
