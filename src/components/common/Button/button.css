@@ -1,0 +1,15 @@
+.button-wrapper {
+  cursor: pointer;
+  /* background: var(--pink-color); */
+  color: #ffffff;
+  font-size: 14px;
+  font-family: var(--base-font);
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0.015em;
+  border-radius: 10px;
+  height: 57px;
+  width: 223px;
+  left: 120px;
+  top: 584px;
+}

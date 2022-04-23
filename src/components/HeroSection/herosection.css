@@ -1,0 +1,27 @@
+.hero__section {
+  background: rgba(226, 228, 246, 0.29);
+  height: 100%;
+  width: 100%;
+}
+
+.hero__section-text {
+  font-family: var(--base-font);
+  font-weight: bold;
+  font-size: 36px;
+  color: var(--blue-color);
+  letter-spacing: 0.015em;
+  text-align: center;
+  line-height: 54px;
+  text-transform: capitalize;
+}
+
+.card__container {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+

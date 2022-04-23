@@ -1,0 +1,17 @@
+.technology {
+    height: 100%;
+    background: #FFFFFF;
+}
+
+.try {
+    margin-left: 60px;
+    padding-top: 50px;
+}
+
+
+.tech-reverse {
+    flex-direction: row-reverse;
+    display: flex;
+    align-items: flex-start;
+    margin: 3rem -10.5rem;
+}
